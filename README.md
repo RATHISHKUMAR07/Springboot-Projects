@@ -5,13 +5,12 @@ The Springboot-Projects repository showcases a collection of Java-based projects
 # Student API Data Project
 
 Welcome to the Spring Boot Student API Data project! This repository contains a Spring Boot application that serves as a RESTful API for managing student information. The application provides endpoints to perform CRUD (Create, Read, Update, Delete) operations on student records.
-<img src="">
-
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Outputs](#outputs)
 - [Setup](#setup)
 - [API Endpoints](#api-endpoints)
 - [Sample Outputs](#sample-outputs)
@@ -42,6 +41,14 @@ This project aims to demonstrate the implementation of a simple Student API usin
 - Maven
 - Postman
 
+## Outputs
+<div>
+<img alt="Students" width="400" height="500" src="https://github.com/RATHISHKUMAR07/Springboot-Projects/blob/springboot/Student.JPG">
+<img alt="Students" width="400" height="500" src="https://github.com/RATHISHKUMAR07/Springboot-Projects/blob/springboot/Student1.JPG">
+<img alt="Subjects" width="400" height="500"src="https://github.com/RATHISHKUMAR07/Springboot-Projects/blob/springboot/Subject.JPG">
+<img alt="Subjects" width="400" height="500" src="https://github.com/RATHISHKUMAR07/Springboot-Projects/blob/springboot/Subject1.JPG">
+</div>
+   
 ## Setup
 
 1. Clone the repository:
